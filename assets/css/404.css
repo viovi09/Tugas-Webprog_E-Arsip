@@ -1,0 +1,14 @@
+body{
+	background: #d5d5d5;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 100%;
+	font-family: sans-serif;
+}
+
+h1{
+	font-size: 80px;
+	color: #D9534F;
+}
